@@ -1,3 +1,2 @@
 # BTL_LTM
-chódũng
 
