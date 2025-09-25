@@ -8,12 +8,9 @@ package server;
  *
  * @author Admin
  */
-public class Config {
-    public static int Port = 8081;
-    
-    public static String DB_URL;
-    
-    public static String username;
-    public static String password;
+public class Contants {
+    public static final String LOGIN_STATUS = "LOGIN";
+    public static final String REGISTER_STATUS = "REGISTER";
+    public static final String LOGOUT_STATUS = "LOGOUT";
     
 }
